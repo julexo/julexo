@@ -79,3 +79,6 @@ These are the languages I have a solid foundation in, thanks to my Computer Scie
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julexo&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" alt="julexo's top languages" />
 </p>
+<p align="center">
+  <img src="https://pacman-activity-graph.vercel.app/api?username=julexo&theme=dark_pacman" alt="Gráfico de Actividad de GitHub como Pac-Man">
+</p>
